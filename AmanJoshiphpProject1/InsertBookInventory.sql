@@ -1,0 +1,1 @@
+INSERT INTO `mariadb`.`bookinventory` (`BookID`, `book_name`, `quantity`) VALUES ('1', 'A Game of Thrones', '5'), ('2', 'A Clash of Kings', '7'), ('3', 'A Storm of Swords', '8'), ('4', 'A Feast for Crows', '8'), ('5', 'A Dance with Dragons', '14')

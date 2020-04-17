@@ -1,0 +1,1 @@
+CREATE TABLE `mariadb`.`bookinventory` ( `BookID` INT NOT NULL AUTO_INCREMENT , `bookname` VARCHAR(30) NOT NULL , `quantity` INT NOT NULL , PRIMARY KEY (`BookID`)) ENGINE = InnoDB;
